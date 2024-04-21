@@ -1,0 +1,80 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/LYWk3TM/the-great-gatsby-9781524879761-hr.jpg",
+        "review": "A captivating tale of love, wealth, and the American Dream, set against the backdrop of the roaring twenties. The Great Gatsby, written by F. Scott Fitzgerald, follows the story of Jay Gatsby, a mysterious millionaire, through the eyes of Nick Carraway, a young man who moves to Long Island in the summer of 1922. With its vivid portrayal of extravagant parties, forbidden love, and societal decadence, this novel delves deep into the complexities of human desire and the consequences of pursuing the elusive American Dream.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic Literature",
+        "tags": ["Romance", "Tragedy", "Historical"],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/zQxyPdM/penguin-1984-11.jpg",
+        "review": "A dystopian masterpiece that explores the dangers of totalitarianism and the erosion of truth and freedom. George Orwell's 1984 presents a chilling vision of a future society where individuality is suppressed, and thoughtcrime is punishable by death. Through the eyes of protagonist Winston Smith, readers are taken on a journey into the heart of a repressive regime ruled by Big Brother. As Winston rebels against the oppressive regime and falls in love with Julia, he discovers the power of resistance and the fragility of truth. Orwell's timeless novel continues to resonate with readers, serving as a warning against the dangers of authoritarianism and the importance of preserving liberty.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Dystopian Fiction",
+        "tags": ["Political", "Social Commentary"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 3,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/0j3b3V9/9780434020485-jacket-large-1.jpg",
+        "review": "A profound narrative that confronts issues of racial injustice and moral growth in the American South. Harper Lee's To Kill a Mockingbird is a timeless classic that explores themes of racism, empathy, and the loss of innocence. Set in the fictional town of Maycomb, Alabama, during the 1930s, the novel follows the journey of Scout Finch, a young girl coming of age in the midst of racial tension and prejudice. Through the trial of Tom Robinson, a black man falsely accused of raping a white woman, Lee sheds light on the injustices of the Jim Crow South and the importance of standing up for what is right, even in the face of adversity.",
+        "totalPages": 281,
+        "rating": 4.7,
+        "category": "Southern Gothic",
+        "tags": ["Coming-of-Age", "Legal Drama"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/DQWpSMm/download.jpg",
+        "review": "A poignant exploration of adolescent alienation and the search for authenticity. J.D. Salinger's The Catcher in the Rye is a seminal work of American literature that has resonated with generations of readers. Narrated by Holden Caulfield, a disillusioned teenager expelled from prep school, the novel follows his journey through New York City as he grapples with themes of identity, belonging, and the phoniness of adult society. Through Holden's distinctive voice and cynical outlook, Salinger offers a poignant portrayal of adolescence and the universal struggle to find one's place in the world.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Literary Fiction",
+        "tags": ["Coming-of-Age", "Existential"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "https://i.ibb.co/xHTrPR9/9781847493699.jpg",
+        "review": "A timeless romance filled with wit, social commentary, and memorable characters. Jane Austen's Pride and Prejudice is a beloved classic that continues to captivate readers with its sparkling wit and enduring love story. Set in early 19th-century England, the novel follows the romantic entanglements of the Bennet sisters, particularly Elizabeth Bennet and the enigmatic Mr. Darcy. Through sharp social satire and astute observation, Austen explores themes of marriage, class, and the complexities of human relationships, creating a world that feels as vibrant and relevant today as it did over two centuries ago.",
+        "totalPages": 279,
+        "rating": 4.6,
+        "category": "Romance",
+        "tags": ["Regency", "Satire"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813
+    },
+    {
+        "bookId": 6,
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/PQZxfm1/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg",
+        "review": "An enchanting tale of magic, friendship, and the power of good over evil. J.K. Rowling's Harry Potter and the Philosopher's Stone introduces readers to the magical world of Hogwarts School of Witchcraft and Wizardry, where young wizard Harry Potter discovers his true identity and embarks on a journey to defeat the dark wizard Voldemort. Through Harry's adventures with his friends Ron and Hermione, Rowling crafts a richly imagined world filled with fantastical creatures, spellbinding magic, and timeless lessons about courage, loyalty, and the triumph of love. With its irresistible charm and universal themes, this first installment in the Harry Potter series has captured the hearts of millions of readers worldwide.",
+        "totalPages": 309,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Magic", "Adventure"],
+        "publisher": "Bloomsbury Publishing",
+        "yearOfPublishing": 1997
+    }
+]

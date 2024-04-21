@@ -1,0 +1,13 @@
+.active{
+    background: none !important;
+    background-color: none !important;
+    color: #23BE0A !important;
+    /* font-weight: 700; */
+    border: 1px solid #23BE0A !important;
+}
+.active:hover{
+    color: black !important;
+}
+li>a:hover{
+    background-color: #bbffb0 !important;
+}
